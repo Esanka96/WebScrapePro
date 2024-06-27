@@ -52,8 +52,8 @@ def get_session():
     session_login=new_session.get(logi_url)
     login_post ='https://muse.jhu.edu/account/login'
 
-    payload={'account_user_name': 'scopus1',
-    'account_password': '1779290'}
+    payload={'account_user_name': 'username',
+    'account_password': '*******'}
 
     headers = {
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
