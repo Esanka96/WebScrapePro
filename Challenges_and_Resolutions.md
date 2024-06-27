@@ -6,3 +6,7 @@ PyPDF2 library is used to extract text and metadata from pdf files.
 ## Ref_7
 
 Used selenium to bypass cloudflare security also used cookie with undetected chromedriver to bypass captcha
+
+## Ref_12
+
+Used undetected chromedriver to scrape data from site in case of cloudflare security.
