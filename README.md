@@ -1,3 +1,5 @@
+### Introduction to Web Scraping 🌐
+
 Introduction to Web Scraping 🌐
 
 Welcome to the fascinating world of web scraping! Web scraping involves extracting data from websites, and it's a powerful tool for automating the collection of large amounts of information. Let’s dive into the essentials! 🌟
