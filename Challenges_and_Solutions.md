@@ -1,12 +1,10 @@
-## Ref_5
-Used request session to log website and to scrape data from the website
+# Web Scraping Techniques
 
-PyPDF2 library is used to extract text and metadata from pdf files.
+## 📄 Ref_5
+Used request session to log into a website and scrape data from it. The `PyPDF2` library is utilized to extract text and metadata from PDF files.
 
-## Ref_7
+## 🔍 Ref_7
+Employed Selenium to bypass Cloudflare security. Additionally, used cookies with `undetected-chromedriver` to bypass CAPTCHA.
 
-Used selenium to bypass cloudflare security also used cookie with undetected chromedriver to bypass captcha
-
-## Ref_12
-
-Used undetected chromedriver to scrape data from site in case of cloudflare security.
+## 🛡️ Ref_12
+Utilized `undetected-chromedriver` to scrape data from a site protected by Cloudflare security.
